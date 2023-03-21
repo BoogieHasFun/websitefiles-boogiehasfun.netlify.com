@@ -5,6 +5,6 @@ if your on the [github](https://github.com/BoogieHasFun/websitefiles-boogiehasfu
 
 this contains the source for the [website](https://boogiehasfun.netlify.app/)
 the website uses netlify for hosting.
-see [the original source)(https://github.com/BoogieHasFun/github-boogiehasfun) for the other websites.
+see [the original source](https://github.com/BoogieHasFun/github-boogiehasfun) for the other websites.
 
 :D
