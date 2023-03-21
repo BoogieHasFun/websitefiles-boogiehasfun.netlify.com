@@ -1,0 +1,57 @@
+body
+{
+  font-family: Consolas;
+  color:#c9d1d9;
+
+}
+
+
+linkgit {
+    font-size: 28px;
+    color: darkred;
+  }
+
+  mainheader
+{
+    font-size: 28px;
+}
+
+
+
+homeheader
+{
+  font-family: Consolas;
+  color: #c9d1d9;
+  font-size: 20px;
+}
+
+/* even the styles.css has sloppy code, please dont tell me to fix sloppy code instead if the sloppy code is annoying you just fork the repo and fix it your self and create a pr */
+li {
+  float: left;
+  background-color: #1b1d27;
+}
+
+a {
+  display: block;
+  padding: 8px;
+}
+
+footer {
+  background-color: #17182e;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+blackbackground
+{ 
+  background-color: black;
+}
+middle
+{ 
+ text-align: center;
+}
+div
+{
+  justify-content: center;
+  display: flex;
+}
