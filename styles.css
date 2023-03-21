@@ -37,10 +37,12 @@ a {
 }
 
 footer {
+
   background-color: #17182e;
   padding: 10px;
   text-align: center;
   color: white;
+  
 }
 blackbackground
 { 
@@ -59,4 +61,8 @@ relativepos {
   position: relative;
   top: 0;
   left: 0;
+}
+absolutepos {
+  position: absolute;
+  bottom: 20px;
 }
