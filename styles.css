@@ -70,3 +70,9 @@ big
 {
   font-size: medium;
 }
+a:visited 
+{
+  color: rgb(111, 58, 255);
+ background-color: transparent;
+ text-decoration: none;
+}
